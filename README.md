@@ -153,9 +153,9 @@ sensory-scape/
   <tr>
     <td align="center"><br><b>Iheb Ben Taieb</b><br>Project Lead</td>
     <td align="center"><br><b>Chater Marzougui</b><br>ICT enginner</td>
-  </tr>
-  <tr>
     <td align="center"><br><b>nermine ezzine</b><br>ICT enginner</td>
+
+ 
   </tr>
 </table>
 
