@@ -8,7 +8,8 @@
 ![Award](https://img.shields.io/badge/award-3rd%20Place%20IEEE%20TSYP-orange)
 
 <p align="center">
-  <img src="/api/placeholder/800/400" alt="Sensory Scape Vest" />
+  <img src="![1735416497838](https://github.com/user-attachments/assets/61882b2f-89e4-47e6-afbe-12f458c21e7a)
+" alt="Sensory Scape Vest" />
 </p>
 
 > 🏆 **3rd Place Winner** – TN2056 Challenge @ IEEE TSYP Congress 12, Tunisia
@@ -26,8 +27,7 @@ The project empowers neurodiverse users with comfort, calm, and control—built 
 - 🔁 **Real-Time Communication** using WebSocket technology
 - 🧠 **Customizable Feedback Patterns** (vibration, temperature, pressure, sound, etc.)
 - 📊 **Data Analysis** for tracking progress and optimizing therapy
-- 🔒 **Secure & Modular Design** for scalability and adaptability
-- 📱 **Mobile Companion App** for caregivers (coming soon)
+
 
 ## 🎯 Why Sensory Scape?
 
@@ -42,14 +42,11 @@ Sensory processing differences affect up to 90% of autistic individuals. Our sol
 ## 🛠️ Tech Stack
 
 - **Hardware**:
-  - Arduino / ESP32 microcontrollers
   - Vibration motors, pressure pads, temperature modules
-  - Custom PCB design for reliable connections
   - Rechargeable battery system
 
 - **Communication**:
   - WebSockets over Wi-Fi
-  - Bluetooth Low Energy fallback
   - Local data storage for offline functionality
 
 - **Software**:
@@ -71,7 +68,8 @@ Sensory processing differences affect up to 90% of autistic individuals. Our sol
 ## 📊 Dashboard Preview
 
 <p align="center">
-  <img src="/api/placeholder/800/450" alt="Sensory Scape Dashboard" />
+  <img src="![image](https://github.com/user-attachments/assets/03145bb9-8e8c-490b-8d1d-0ade21726925)
+" alt="Sensory Scape Dashboard" />
 </p>
 
 The intuitive dashboard allows specialists to:
@@ -120,18 +118,16 @@ Upload the Arduino/ESP32 firmware located in the `/firmware` folder using the Ar
 
 ```
 sensory-scape/
-├── dashboard/           # React-based frontend
+├── Sensoryscape-main/           # React-based frontend
 │   ├── src/             # React components
 │   ├── public/          # Static assets
 │   └── package.json     # Dependencies
-├── backend/             # Node.js WebSocket server
+├── Sensoryscape-backend/             # Node.js WebSocket server
 │   ├── server.js        # Main server file
 │   ├── controllers/     # Business logic
 │   └── models/          # Data models
-├── firmware/            # Arduino/ESP32 code for the vest
-│   ├── main/            # Main firmware
-│   └── libraries/       # Custom libraries
-├── hardware/            # PCB designs & schematics
+├── ML model/            # machine learning models
+│   ├── main/            # Main models
 ├── docs/                # Documentation & diagrams
 └── README.md            # You are here
 ```
@@ -141,6 +137,7 @@ sensory-scape/
 - [x] Prototype development and testing
 - [x] Initial dashboard implementation
 - [x] Basic sensory feedback modules
+- [x] Basic ML model for detecting abnormal behavior 
 - [x] IEEE TSYP Congress 12 presentation
 - [ ] Enhanced data analytics platform
 - [ ] Mobile companion app development
@@ -150,37 +147,24 @@ sensory-scape/
 
 ## 📸 Demo & Media
 
-<p align="center">
-  <img src="/api/placeholder/400/225" alt="Demo at TSYP" />
-</p>
 
-- 🎥 [Watch our TSYP Congress 12 demo](https://youtu.be/your-video-link)
-- 📰 [Read about our journey](https://medium.com/your-article-link)
+- 🎥 [Watc our pictures at The TSYP Congress 12 Pitch]([https://youtu.be/your-video-link](https://www.facebook.com/photo/?fbid=948942384053346&set=pcb.948942637386654))
+
 
 ## 👥 Meet the Team
 
 <table>
   <tr>
-    <td align="center"><img src="/api/placeholder/100/100" /><br><b>Iheb Ben Taieb</b><br>Project Lead</td>
-    <td align="center"><img src="/api/placeholder/100/100" /><br><b>Iheb Bettaib</b><br>Hardware Engineer</td>
-    <td align="center"><img src="/api/placeholder/100/100" /><br><b>Chater Marzougui</b><br>Software Developer</td>
+    <td align="center"><br><b>Iheb Ben Taieb</b><br>Project Lead</td>
+    <td align="center"><br><b>Chater Marzougui</b><br>ICT enginner</td>
   </tr>
   <tr>
-    <td align="center"><img src="/api/placeholder/100/100" /><br><b>Arslene Hedhli</b><br>UX Designer</td>
-    <td align="center"><img src="/api/placeholder/100/100" /><br><b>Louhichi Mariem</b><br>Research Specialist</td>
-    <td align="center"></td>
+    <td align="center"><img src="/api/placeholder/100/100" /><br><b>nermine ezzine</b><br>ICT enginner</td>
+  
+
   </tr>
 </table>
 
-## 🤝 Contributing
-
-We welcome contributions to Sensory Scape! Please check out our [contributing guidelines](CONTRIBUTING.md) to get started.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
 
 ## 📄 License
 
@@ -190,15 +174,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Thanks to the IEEE Tunisia Section & TSYP Congress 12 organizers
 - Inspired by the needs of neurodiverse children and their families
-- Special thanks to our mentors and testers for their invaluable feedback
 - Gratitude to the open-source communities whose libraries made this possible
 
 ## 📬 Contact
 
 <p align="center">
-  <a href="mailto:your.email@domain.com"><img src="https://img.shields.io/badge/Email-your.email%40domain.com-blue?style=for-the-badge&logo=microsoft-outlook"></a>
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter"></a>
+  <a href="iheb.bentaieb@supcom.tn"><img src="https://img.shields.io/badge/Email-your.email%40domain.com-blue?style=for-the-badge&logo=microsoft-outlook"></a>
+ 
 </p>
 
 ---
