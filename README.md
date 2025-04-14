@@ -8,8 +8,7 @@
 ![Award](https://img.shields.io/badge/award-3rd%20Place%20IEEE%20TSYP-orange)
 
 <p align="center">
-  <img src="![1735416497838](https://github.com/user-attachments/assets/61882b2f-89e4-47e6-afbe-12f458c21e7a)
-" alt="Sensory Scape Vest" />
+  <img src="https://github.com/user-attachments/assets/61882b2f-89e4-47e6-afbe-12f458c21e7a" alt="Sensory Scape Vest" />
 </p>
 
 > 🏆 **3rd Place Winner** – TN2056 Challenge @ IEEE TSYP Congress 12, Tunisia
@@ -68,8 +67,7 @@ Sensory processing differences affect up to 90% of autistic individuals. Our sol
 ## 📊 Dashboard Preview
 
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/03145bb9-8e8c-490b-8d1d-0ade21726925)
-" alt="Sensory Scape Dashboard" />
+  <img src="https://github.com/user-attachments/assets/03145bb9-8e8c-490b-8d1d-0ade21726925" alt="Sensory Scape Dashboard" />
 </p>
 
 The intuitive dashboard allows specialists to:
@@ -147,9 +145,7 @@ sensory-scape/
 
 ## 📸 Demo & Media
 
-
-- 🎥 [Watc our pictures at The TSYP Congress 12 Pitch]([https://youtu.be/your-video-link](https://www.facebook.com/photo/?fbid=948942384053346&set=pcb.948942637386654))
-
+- 🎥 [Watch our pictures at The TSYP Congress 12 Pitch](https://www.facebook.com/photo/?fbid=948942384053346&set=pcb.948942637386654)
 
 ## 👥 Meet the Team
 
@@ -159,12 +155,9 @@ sensory-scape/
     <td align="center"><br><b>Chater Marzougui</b><br>ICT enginner</td>
   </tr>
   <tr>
-    <td align="center"><img src="/api/placeholder/100/100" /><br><b>nermine ezzine</b><br>ICT enginner</td>
-  
-
+    <td align="center"><br><b>nermine ezzine</b><br>ICT enginner</td>
   </tr>
 </table>
-
 
 ## 📄 License
 
@@ -179,8 +172,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📬 Contact
 
 <p align="center">
-  <a href="iheb.bentaieb@supcom.tn"><img src="https://img.shields.io/badge/Email-your.email%40domain.com-blue?style=for-the-badge&logo=microsoft-outlook"></a>
- 
+  <a href="mailto:iheb.bentaieb@supcom.tn"><img src="https://img.shields.io/badge/Email-iheb.bentaieb%40supcom.tn-blue?style=for-the-badge&logo=microsoft-outlook"></a>
 </p>
 
 ---
