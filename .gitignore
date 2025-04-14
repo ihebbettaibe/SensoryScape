@@ -1,0 +1,20 @@
+# Ignore .env files
+.env
+.env.local
+# Node.js dependencies
+node_modules/
+
+# Build files
+dist/
+build/
+out/
+*.log
+*.tmp
+# Windows
+Thumbs.db
+desktop.ini
+
+# Secrets
+*.pem
+*.key
+*.crt
